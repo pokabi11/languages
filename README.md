@@ -32,6 +32,7 @@ created by Aseprite users and distributed as extensions:
   - 🇪🇸 [Spanish (Spain)](https://github.com/Dolvem/aseprite-spanish-translation)
 - 🇺🇦 [Ukrainian](https://github.com/Steenuga/aseprite-language-ukrainian)
 - 🇲🇹 [Maltese](https://github.com/DimensionalSpace/Maltese-Aseprite) (work in progress)
+- 🇻🇳 [Vietnamese](https://github.com/pokabi11/aseprite-vietnamese-language-pack)
 
 ## How to change Aseprite language?
 
